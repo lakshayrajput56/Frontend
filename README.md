@@ -24,6 +24,7 @@ Open the required project or tutorial folder.
 Open the .html file in a browser.
 For projects using multiple files, keep all files in their original folder structure.
 
-👨‍💻 Author
-Lakshay Rajput
-B.Tech CSE – 1st Year
+👨‍💻 **Author**
+**Lakshay Rajput**
+
+**B.Tech CSE – 1st Year**
