@@ -1,0 +1,23 @@
+#heading{
+    color: blue;
+    background-color: lightgray;
+    text-align: center;
+}
+/* ID selector */
+#box{
+    background-color: lightblue;
+}
+/* Element Selector */
+p{
+    color: red;
+}
+/* Class Selector */
+.text{
+    font-size: 20px;
+}
+#first{
+    color: blue;
+}
+#second{
+    color: red;
+}
