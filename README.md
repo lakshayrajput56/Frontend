@@ -23,6 +23,7 @@ I will keep adding new tutorials, practice sets and projects as I learn new conc
 Open the required project or tutorial folder.
 Open the .html file in a browser.
 For projects using multiple files, keep all files in their original folder structure.
+
 👨‍💻 Author
 Lakshay Rajput
 B.Tech CSE – 1st Year
